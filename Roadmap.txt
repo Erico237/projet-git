@@ -1,0 +1,5 @@
+- langage de progrmmation python(django,numpy,pandas, anaconda...) et c++(en cours..)
+
+-intermediaire en font-End (html, css)
+
+-j'ai bien programme et la securite me fascine bien.
